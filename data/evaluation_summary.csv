@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1
+Baseline 1 - Majority Class,0.2,0.04,0.2,0.06666666666666667
+Baseline 2 - Keyword Classifier,0.53,0.6178802232854865,0.53,0.4993869706461183

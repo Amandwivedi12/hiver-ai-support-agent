@@ -1,0 +1,9 @@
+metric,value
+samples,49.0
+exact_agreement,0.2653061224489796
+within_1_agreement,0.7142857142857143
+quadratic_weighted_kappa,-0.020399490012749766
+spearman_correlation,-0.058091471946875764
+mean_human_score,1.3673469387755102
+mean_llm_score,2.3877551020408165
+mean_score_gap_llm_minus_human,1.0204081632653064
